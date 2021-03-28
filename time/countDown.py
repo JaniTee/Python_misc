@@ -9,4 +9,4 @@ while timeLeft > 0:
     time.sleep(1)
     timeLeft = timeLeft - 1
 
-subprocess.Popen(['open', '/Users/janitiainen/Documents/sound.wav'])
+subprocess.Popen(['open', 'path_to_file_here'])
